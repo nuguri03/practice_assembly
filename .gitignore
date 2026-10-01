@@ -1,3 +1,4 @@
-gugudan.o
+*.o
 gugudan
+base_translator
 .gdb_history
